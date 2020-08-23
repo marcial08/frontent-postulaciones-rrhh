@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SistemaPostulaciones"
+    }
+  },
+  "defaultProject": "SistemaPostulaciones",
+  "cli": {
+    "analytics": "94493e6f-48a7-487e-be40-fda7e43071e2"
+  }
 }
